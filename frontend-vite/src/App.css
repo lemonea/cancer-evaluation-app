@@ -1,0 +1,26 @@
+.ant-upload-drag-icon {
+  font-size: 48px;
+  color: #1890ff;
+}
+
+.ant-upload-text {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.ant-upload-hint {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.ant-layout-header {
+  background: #001529;
+}
+
+.ant-card {
+  margin-bottom: 16px;
+}
+
+.ant-divider {
+  margin: 16px 0;
+}
